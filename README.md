@@ -1,1 +1,1 @@
-URL: Imanuel21.github.io
+URL: http://Imanuel21.github.io/
